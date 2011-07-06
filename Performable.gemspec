@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["thredUP"]
   s.email       = ["kylie@thredup.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{This gem records Performable Lifecycle Analytics events.}
+  s.description = %q{Supply an event name, Performable API key, and any other additional custom event parameters to record events on Performable.}
 
   s.rubyforge_project = "Performable"
 
